@@ -1,0 +1,41 @@
+{
+  "base": {
+    "em or en dash": 11,
+    "Section/Figure/Table ref": 0,
+    "et al outside credit": 0,
+    "missing Why it matters": 9,
+    "bullet not '**Label.** text'": 2,
+    "no 'First author et al.' credit": 7,
+    "numbers not in input": 1,
+    "results in curator's take": 3,
+    "opens 'The paper tackles/addresses'": 1,
+    "words": 200.89999999999998,
+    "papers": 20
+  },
+  "prompted": {
+    "em or en dash": 10,
+    "Section/Figure/Table ref": 0,
+    "et al outside credit": 0,
+    "missing Why it matters": 0,
+    "bullet not '**Label.** text'": 0,
+    "no 'First author et al.' credit": 4,
+    "numbers not in input": 0,
+    "results in curator's take": 0,
+    "opens 'The paper tackles/addresses'": 0,
+    "words": 192.29999999999998,
+    "papers": 20
+  },
+  "trained": {
+    "em or en dash": 1,
+    "Section/Figure/Table ref": 0,
+    "et al outside credit": 0,
+    "missing Why it matters": 1,
+    "bullet not '**Label.** text'": 0,
+    "no 'First author et al.' credit": 3,
+    "numbers not in input": 0,
+    "results in curator's take": 0,
+    "opens 'The paper tackles/addresses'": 0,
+    "words": 198.2,
+    "papers": 20
+  }
+}

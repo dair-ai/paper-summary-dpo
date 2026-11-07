@@ -102,11 +102,29 @@ python training/evaluate.py --base runs/base --prompted runs/prompted --trained 
 | `training/train_dpo.py` | SFT then DPO on Training Sessions, then sampling |
 | `training/sample_base.py` | Base and prompted baselines |
 | `training/evaluate.py` | The automatic checks behind the results table |
-| `results/` | Our final model's config, training metrics and summaries, plus the base and prompted summaries, the human review and the accuracy audit |
+| `results/` | Our final model's config, training metrics and summaries, the base and prompted summaries, the human review, the accuracy audit and the Nov 7 reproduction |
+
+## Reproduction check
+
+On Nov 7, 2026 we cloned this repo into an empty folder and followed the steps above with a fresh Python environment. All 122 inputs rebuilt from arXiv matched ours byte for byte. We retrained the final model from scratch, resampled both baselines and scored all three on the 20 test papers. The outputs are in `results/reproduction-2026-11-07/`.
+
+| Check | Base | Prompted | Trained |
+| --- | ---: | ---: | ---: |
+| Em or en dashes | 11 | 10 | 1 |
+| Wrong bullet label format | 2 | 0 | 0 |
+| Opens with "The paper tackles" | 1 | 0 | 0 |
+| Missing "First author et al." credit | 7 | 4 | 3 |
+| Missing "Why it matters" | 9 | 0 | 1 |
+| Results in the curator's take | 3 | 0 | 0 |
+| Numbers not in the input | 1 | 0 | 0 |
+
+The retrained model reproduced every count in the trained column of the main table exactly.
+
+The base model did not. On Nov 7 the hosted GPT-OSS-20B wrote noticeably better summaries than it did on Nov 2 for the same prompts. The model ARN, tokenizer, prompt tokens and sampling settings were identical. We confirmed the change was on the base model by sampling it through a new, empty model package group. Our main table uses the base outputs from Nov 2 and the prompted outputs from Nov 4, which are in `results/base/` and `results/prompted/`. If you resample the baselines, expect numbers closer to the Nov 7 table.
 
 ## Notes
 
-Training on a hosted service is not bit-for-bit deterministic, so your trained summaries may differ slightly from ours. Sampling uses temperature 0.
+Sampling uses temperature 0, but outputs from the hosted service still vary between sessions. Your summaries will differ in wording from ours even when the counts match.
 
 The papers come from the DAIR.AI Top AI Papers of the Week newsletter. The 10 papers marked `calibration` were the first ones we corrected by hand. AI agents wrote the corrections for the other 112, following the style spec, and we spot-checked 20 of them.
 
