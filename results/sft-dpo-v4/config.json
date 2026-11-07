@@ -1,0 +1,29 @@
+{
+  "run": "sft-dpo-v4",
+  "beta": 0.2,
+  "lr": 1e-05,
+  "sft_alpha": 1.0,
+  "epochs": 2,
+  "batch_pairs": 8,
+  "lora_rank": 64,
+  "lora_alpha": 128,
+  "seed": 20261102,
+  "cap_usd": 5.0,
+  "spent_usd": 1.66,
+  "sample_splits": "test,dev",
+  "sft_epochs": 2,
+  "sft_lr": 5e-05,
+  "limit": 0,
+  "max_steps": 0,
+  "sample_limit": 0,
+  "base_model_arn": "arn:aws:sagemaker:us-east-1:aws:hub-content/SageMakerPublicHub/Model/openai-reasoning-gpt-oss-20b/3.43.2",
+  "tokenizer_revision": "6cee5e81ee83917806bbde320786a8fb61efebee",
+  "cookbook_commit": "7f2d3e004d5c3e7a96ae59eab0ae2b070abba94a",
+  "rates_per_million": {
+    "prefill": 0.12,
+    "train": 0.36,
+    "sample": 0.3
+  },
+  "guard_factor": 3.0,
+  "started_utc": "2026-11-02T23:50:20.362348+00:00"
+}

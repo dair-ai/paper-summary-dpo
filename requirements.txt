@@ -1,0 +1,15 @@
+# Exact versions we used (Python 3.14). Install the AWS cookbook separately with --no-deps, see README.
+sagemaker-train==1.28.0
+sagemaker==3.28.0
+sagemaker-core==2.28.0
+boto3==1.43.123
+transformers==4.57.6
+tokenizers==0.22.2
+huggingface_hub==0.36.2
+Jinja2==3.1.6
+numpy==2.5.4
+rich==14.3.4
+pyarrow==25.0.1
+psutil==7.2.2
+pydantic==2.14.2
+typing_extensions==4.16.0

@@ -1,0 +1,1222 @@
+[
+ {
+  "arxiv_id": "2610.28380",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "30d157984f16072ebac9bb42f39eb2630ec0163dfcf0e096fc3a986974fe6a02",
+  "end_line": 81,
+  "end_line_text": "",
+  "text_sha256": "0f099c4b7a6ad8bb5b25011df40ac0124efd8beba732bf49e6a324f36160ac0f"
+ },
+ {
+  "arxiv_id": "2610.29823",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "2072c9ff8287ccc30e4929dbedbd2bf945240436c7811521843f259711d4b1c9",
+  "end_line": 147,
+  "end_line_text": "",
+  "text_sha256": "295be193d171b6f6140eb7a371c1c0bc7d7db23ff885b1e24cadaf44eb30ae4f"
+ },
+ {
+  "arxiv_id": "2610.22319",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "58301b5ef5bb5988bb8c5a8e89d405fd59a8213a105529a3fa22fea78d6679c7",
+  "end_line": 140,
+  "end_line_text": "",
+  "text_sha256": "7aa5169ca686a9881e2c2732ad0ca963a22fbc45599cbe497010c890757c6a24"
+ },
+ {
+  "arxiv_id": "2610.25858",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "e686b84dad4c9b1b145b99a16e198a3e4d00f01de4c63693b39100d89f293617",
+  "end_line": 101,
+  "end_line_text": "",
+  "text_sha256": "ee7591a666a9a20d33034105235f7eab42f9be1963de02ec448ab3ee38c2c5e1"
+ },
+ {
+  "arxiv_id": "2610.28577",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "e4cc7d84bed9c9b0273f32c5d4fee7cb22b5480412f9e9802fe4eaf46ae832a4",
+  "end_line": 176,
+  "end_line_text": "",
+  "text_sha256": "2cc47b8b007ab97e2c8a97dc5a2f8199300a2663694b616e2890d6e3141e07ff"
+ },
+ {
+  "arxiv_id": "2610.24521",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "5d7222cfcf7dd8fe494d2ea2dc58f865299b81ae95bd31dd2778367e77385474",
+  "end_line": 329,
+  "end_line_text": "",
+  "text_sha256": "dd7e69ace590a7d961240a3a275354b92b13be2ce80487e7ea3ba1a16bed02d1"
+ },
+ {
+  "arxiv_id": "2610.28601",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "546c798a880f210590c305dcfdc743b249bd125feefa29c52b076129e7542ba3",
+  "end_line": 228,
+  "end_line_text": "",
+  "text_sha256": "222bf7fe39e9e5998a72cef6d3eb9f589b6bc90cd08849dde12f6969bfd67561"
+ },
+ {
+  "arxiv_id": "2610.23839",
+  "arxiv_version": 2,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "f9df65e4c75059e879b7384725d8e4f6942f9335c577a94fe00cd88ea82a1bb0",
+  "end_line": 410,
+  "end_line_text": "",
+  "text_sha256": "a1b9353e6ead63024c869d3c7c40ee0163166c4370765dee91842d8c80b52d37"
+ },
+ {
+  "arxiv_id": "2610.20563",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "9c14df8357e1fb46caa8349e6225d502180ee74c20c62d5af97ec29cd4285edc",
+  "end_line": 173,
+  "end_line_text": "",
+  "text_sha256": "9d7a4f0e3dea8b658dbc18d4093d2aba27b12389f66b112314ae9ebd63c3ec58"
+ },
+ {
+  "arxiv_id": "2610.14224",
+  "arxiv_version": 1,
+  "source": "calibration",
+  "split": "train",
+  "pdf_sha256": "440be1f694f3b0fdfb8e612e9b2288ff0d8ab38641cfd1064fd77052ba360282",
+  "end_line": 258,
+  "end_line_text": "",
+  "text_sha256": "6fce42afd7467f7ca598ab8cc91d8f3e2babd6dc43c47f4d9fc9e8b6f41028d8"
+ },
+ {
+  "arxiv_id": "2601.21112",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "18b152577287bfcb451e47f39595a5cc38f7f44c42ceee7f998a980ef05efdbf",
+  "end_line": 243,
+  "end_line_text": "",
+  "text_sha256": "cdc5a39d17d7751a08dcaf1696b96bfc597141da45c5a86a073bd4aa881198ed"
+ },
+ {
+  "arxiv_id": "2606.18837",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "42c0e53c1222af5662ee23632d117c6de12ae5858024251bdd41875f2bda44bb",
+  "end_line": 224,
+  "end_line_text": "",
+  "text_sha256": "1818ce37cc9e72f57c1699b8c68b1f97d8edd0781225b9fa849b904e1f94f53c"
+ },
+ {
+  "arxiv_id": "2606.19370",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "a60a5d2f69af5a462a2cdc1850d3d94c9528e98085b1f1007e6ea73908251f5b",
+  "end_line": 135,
+  "end_line_text": "",
+  "text_sha256": "cc6b8637865037abe9816e9b1902a716ace60d555e25f39c0b9e9f19898a7e8a"
+ },
+ {
+  "arxiv_id": "2606.22902",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "1eda4f453a611356b553ef5ba0f82351ef0cf54d46e281e36f0bedfaaf93255d",
+  "end_line": 93,
+  "end_line_text": "",
+  "text_sha256": "111917eed9df2d861e5a4c6356e9b55dbd60c9a4262223d63f005e7d11959d19"
+ },
+ {
+  "arxiv_id": "2606.26294",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "55b0c6339fb957435b321dff648d10ca1f49a54d3cda2c140ba46a6feddfbb9d",
+  "end_line": 205,
+  "end_line_text": "",
+  "text_sha256": "dee6727bd35f24c90e044dd1e57b7823964402eab16d8553ac5777a15932c091"
+ },
+ {
+  "arxiv_id": "2606.26797",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "bc81635f08e2b5d7dc8acef28756190b50e63712d4f766e01c098290b8d69754",
+  "end_line": 155,
+  "end_line_text": "",
+  "text_sha256": "898f3720ad3aba8a012166df0dafec7396211cddfbfbe8d5dee2592398eb236f"
+ },
+ {
+  "arxiv_id": "2606.30317",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "61d56917c5f1e9aae2382132ead3755b22b1bf4d4e681b6fcbfdfa1257eda03e",
+  "end_line": 78,
+  "end_line_text": "II. BACKGROUND",
+  "text_sha256": "b65fdca526c9812011b0d0029bb2a76eaa32ccb2e461015be08e649cb4fc200c"
+ },
+ {
+  "arxiv_id": "2606.32025",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "cec80b43669b84df2ed4162a954f58fa0269e69127e437548b855aa1d15b562c",
+  "end_line": 210,
+  "end_line_text": "",
+  "text_sha256": "842cd5abed739147439aae556caab8952983e94da321fdf1034f38f14a62f44c"
+ },
+ {
+  "arxiv_id": "2606.32032",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "334deb46cd7a18647385bbf973069a2f0c8ddc306b13933b539e5cd11213ceda",
+  "end_line": 131,
+  "end_line_text": "",
+  "text_sha256": "e752096879c78e78bac600845a5f3f70d03dd27ba9a055cf69fcb11d42f5acc6"
+ },
+ {
+  "arxiv_id": "2607.00272",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "16571c0cca96fca633483c532d563d5297f7794d2813f1461c9dcbe0c09fe5ae",
+  "end_line": 176,
+  "end_line_text": "",
+  "text_sha256": "3211be5ae21e4c442cd3a0d114f3570b3354e1365e492e8d5138595d30f3fca0"
+ },
+ {
+  "arxiv_id": "2607.01181",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "dd63988cc9de5a070a3929b083498dc2a087dc627f4852a2b0c78e8355053fbc",
+  "end_line": 89,
+  "end_line_text": "",
+  "text_sha256": "0ca82bd3a97c8cf687125c26697239d584d23b2d84293c51d46a9d4ad6b56c73"
+ },
+ {
+  "arxiv_id": "2607.02303",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "54e7d3ebebc555288224d6e6e39a6f418c843f6d7264cdd8f664e97c3a628b98",
+  "end_line": 176,
+  "end_line_text": "",
+  "text_sha256": "f9243ba141626ee8d87c33f26863aec1b545ddb8bc5b232cfea73764de91674d"
+ },
+ {
+  "arxiv_id": "2607.04763",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "efd4c1bed0c7099520cf3ffa76e498e7270490aa3800a30b12f4c01250f3dc63",
+  "end_line": 429,
+  "end_line_text": "",
+  "text_sha256": "4adedd13c3388f86264cfc1d99db4539eeb62107b4aad654b704849e07081c5c"
+ },
+ {
+  "arxiv_id": "2607.05391",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "3e15c670bf3a190a7417ba7ea2e8e1f2b5c573e548bbab0fb1d15ed9c00d4960",
+  "end_line": 255,
+  "end_line_text": "",
+  "text_sha256": "cf314ea45fa164af3cf3967026f7a732ea030b9664ca36940c07f50aba2cf767"
+ },
+ {
+  "arxiv_id": "2607.06403",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "4d15ccc778af7ce315a1efe81a403a7611b5e659f0ddec5570f7b7973302dda1",
+  "end_line": 249,
+  "end_line_text": "",
+  "text_sha256": "1e74edfe6e9d5201b28525f9bf4f2381e24c869ab75a06d8cc971c894990eff7"
+ },
+ {
+  "arxiv_id": "2607.06906",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "7a3356d602620f5818cfb394157982ab65a946be06e4ec5f90127151dd2f67c9",
+  "end_line": 114,
+  "end_line_text": "",
+  "text_sha256": "963017b0b011615b5ef9325f616416bd7e8a842b6c7958f859f0a56446f4dd5d"
+ },
+ {
+  "arxiv_id": "2607.09197",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "deb4e33d8f33106c7badeaa3d3f21b69fcf997d5dd478a8f587895a0c1b86d9c",
+  "end_line": 128,
+  "end_line_text": "",
+  "text_sha256": "ffe6624d34b4b2115cfea16d7f92f62ca0f4cddb0032bc7fe845ee3eb1e69f1a"
+ },
+ {
+  "arxiv_id": "2607.12227",
+  "arxiv_version": 4,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "a65805f7a4cc6a522055a3f696b72a787b3deb504d7d855f60b54afc5b696fc7",
+  "end_line": 83,
+  "end_line_text": "",
+  "text_sha256": "7bbe9f62421bd2f5fa753722000aed5f8647ba0c11c466930fb6c59416db3120"
+ },
+ {
+  "arxiv_id": "2607.12747",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "66bab1884186e5a290f782d8d8e305c1f67efa541799f83b5c8bb70d2db8badb",
+  "end_line": 167,
+  "end_line_text": "",
+  "text_sha256": "58b368a62f2f3f71e0f1e4605d77a37cb9f8f328373cc21b3ff6c3237c0d4f98"
+ },
+ {
+  "arxiv_id": "2607.13285",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "3736b3e1dc3aa7e9b964db90a1e08f4cb2b8ef9bef95643f41e0ecde506c1336",
+  "end_line": 105,
+  "end_line_text": "",
+  "text_sha256": "20371d27f89c7073d962bc336bb4312ab656654cb6dbe09c0afea393ad3ee0e3"
+ },
+ {
+  "arxiv_id": "2607.14611",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "cb86af3d20d79c02e95e6f6abb613bd3ec06c8675cddd7b2e4fb5bcdc900b689",
+  "end_line": 246,
+  "end_line_text": "",
+  "text_sha256": "0278a320382fe5ba71ebf0790a58bd772cf0e4deafd69905b2fc495ebc33d30b"
+ },
+ {
+  "arxiv_id": "2607.15275",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "6e3cbcbc0ab4db0c20e693c905c9ff4e7f7afe726b15f8fb6dc3a6d7415e4ca0",
+  "end_line": 105,
+  "end_line_text": "",
+  "text_sha256": "99c0e190b8764b207405b963bef8b8d766dd5bde40568f7bd1f8d0cc798f005f"
+ },
+ {
+  "arxiv_id": "2607.17598",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "724c31c817651e3adbed4f5732f15cdbfcf3a4c882b335dc67caad91860a6934",
+  "end_line": 136,
+  "end_line_text": "",
+  "text_sha256": "d80e5dfb78a19cf562493e5d7df2616f58bfc818cddc2a222885c30e90c2de3f"
+ },
+ {
+  "arxiv_id": "2607.18476",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "9c624c8b630b34fdba7247084ae09ddde45bb224023af473c0f61d64af06b0ee",
+  "end_line": 86,
+  "end_line_text": "",
+  "text_sha256": "4ea331f5fa1a5d586783f2da4a4c8717c25a66fa54320e27e41aaa963009306d"
+ },
+ {
+  "arxiv_id": "2607.20064",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "0be80a4acf21756a59c311ea58c24009bba86eb0208b667248b0bc3a4c690df1",
+  "end_line": 101,
+  "end_line_text": "",
+  "text_sha256": "d0a9303f3375d48cefed047ff5b21733bec076582b3b85f280a3d2343cd1e585"
+ },
+ {
+  "arxiv_id": "2607.21627",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "72ffe289005225422797ff9eb900e32b241b4840f6ca56362a5215981016f3f0",
+  "end_line": 94,
+  "end_line_text": "",
+  "text_sha256": "5b15694925912c10eea090fa82acfbabf9efb8ab6bc4febd970a5992389f2a8b"
+ },
+ {
+  "arxiv_id": "2607.21653",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "0cb00e4547a3639a0b6297b1ab26ba8cebfec73e26684cd3bde6d73a00af4f42",
+  "end_line": 62,
+  "end_line_text": "",
+  "text_sha256": "0317db05fe4ed42a6a189534f8f59258a9666331ee88fccbda4226c7e225746e"
+ },
+ {
+  "arxiv_id": "2607.28576",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "ab5fdc6f95d384a676e6bdb475bb27703f967b6cb674aa7175b00d48110a0032",
+  "end_line": 186,
+  "end_line_text": "",
+  "text_sha256": "1a9d022b724b3ef8d51f00f66ec173d98c0c2a3281e55de1a1eb62335798987a"
+ },
+ {
+  "arxiv_id": "2607.28802",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "9b8380c76f698e3e7bbed43c40b1ec6bee5bfcfa11089da58e1370d8320f4d08",
+  "end_line": 137,
+  "end_line_text": "",
+  "text_sha256": "d4008d00c05a60144af0287384c13e775ea87795c53456f863988b1d94fb4711"
+ },
+ {
+  "arxiv_id": "2608.03451",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "43e3decd5452b629125c15026baa0fe3dc946cae1b1aca915b93deff527ef083",
+  "end_line": 496,
+  "end_line_text": "",
+  "text_sha256": "750e15f1e1951c2921bd11337bff2d4d891df97faca2bde5d1bec244c8b3f476"
+ },
+ {
+  "arxiv_id": "2608.06370",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "dbcc5bde9195a9e507949a992329ae2f37992435d291601e327ebf594e5d5ad4",
+  "end_line": 129,
+  "end_line_text": "",
+  "text_sha256": "bbf5070f75f06ea85f023fb9debb91b35e7ba4802950497ecffa0113fc410bfa"
+ },
+ {
+  "arxiv_id": "2608.06871",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "1e78d9155a2660726d96b802bfecc360545b26a951e43aef565fb8d5e364d77d",
+  "end_line": 78,
+  "end_line_text": "",
+  "text_sha256": "932197c841b20afe163982b14798620f071efc549929b537d6559eaf5b85c8de"
+ },
+ {
+  "arxiv_id": "2608.07885",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "928b98315c64e3befc4c1591fcc7207464f35b79897c5afc50a1aa6ff5d81a99",
+  "end_line": 270,
+  "end_line_text": "",
+  "text_sha256": "fb7a96dc0e947dfe14ef5d9c9c99cc6dd84239c70b8b02f4dfec31054530e4fc"
+ },
+ {
+  "arxiv_id": "2608.11727",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "151c21b1e40a194aa2b54b64c9a32fce4f4d6e57c28f4a7370fda35a7974021e",
+  "end_line": 186,
+  "end_line_text": "",
+  "text_sha256": "a1a84458e6576956451ac753f627fe383a7fd96654fa0c17fd97f7fb3391db64"
+ },
+ {
+  "arxiv_id": "2608.13787",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "5e924bfc1818d581a9b822375fba9fa9a5bd66ac80a30d0c79e89de3db519ec2",
+  "end_line": 118,
+  "end_line_text": "",
+  "text_sha256": "d3277b5a504cd87655e5c21dc9fbe90deca89ba85b4b10401f1217ad11285754"
+ },
+ {
+  "arxiv_id": "2608.13940",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "a2f08b986a99e050142c1a7d1f89a74fb4c5a7230764a55d292690de9345e618",
+  "end_line": 133,
+  "end_line_text": "",
+  "text_sha256": "8612c101a50e1909b53c82d3e36fc79608e15d42d51de6ff5e673bd63afdac39"
+ },
+ {
+  "arxiv_id": "2608.16798",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "b9fc9befcc38e05606208af12c84ccde4f928230686d62724e009f7a22ac3287",
+  "end_line": 116,
+  "end_line_text": "",
+  "text_sha256": "8995da3ff8e9d5392dda4fcf331c931427fc680bbfbcebead8d6e71f1053f28e"
+ },
+ {
+  "arxiv_id": "2608.22752",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "0ee89e9ed819000064a6c38527c83387122f856ffa568af2eb797bfd5259451a",
+  "end_line": 118,
+  "end_line_text": "",
+  "text_sha256": "1a3a68488e6ebbc1501057c7fb9e1e363d840ab8d091f591e04cb13e0fc8f194"
+ },
+ {
+  "arxiv_id": "2608.23552",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "973323f2d3d85f3ec9b21709248b65ba236cf527cd5cc9ff556909104a5fd370",
+  "end_line": 127,
+  "end_line_text": "",
+  "text_sha256": "1c75e78b394de91b8eeaec5fc3e214e6df6a1216ce1712f5040f6a66777f341a"
+ },
+ {
+  "arxiv_id": "2608.25776",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "2762b5c7301c709c08f7b8a25e381f5876aa311a9c161efcf0abb220d91c355f",
+  "end_line": 153,
+  "end_line_text": "",
+  "text_sha256": "a380e0f2ed1a6a5c7d2f6fa42288a3e6ddd6b56b536a28417a378ebe77a4ed00"
+ },
+ {
+  "arxiv_id": "2608.26263",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "c197073c36797e002fce1195291af9400697ea680c80fb1cd984c89e74b379ae",
+  "end_line": 96,
+  "end_line_text": "",
+  "text_sha256": "33bcf80c10733606ca08c1eff8378f2d08feeb1add41ef8d6efa3d75c2f8ea6c"
+ },
+ {
+  "arxiv_id": "2608.27454",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "65afc6e12f6f707483fe1b79a97ab67c03abf4b4992f82fde03eb7b8d9ad4a69",
+  "end_line": 126,
+  "end_line_text": "",
+  "text_sha256": "8e113d714449b032605a875959b2b9908d82007dbf00110baf900a27202b1769"
+ },
+ {
+  "arxiv_id": "2608.28978",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "7ce140e47c1364c6564bff4abd0de98f1775d216d80d2ba7dc7439e59ee1c434",
+  "end_line": 82,
+  "end_line_text": "",
+  "text_sha256": "f093c2fe1f6f3870c52960ea63e50f3734a17e257f57fc45990e09ae0336dca2"
+ },
+ {
+  "arxiv_id": "2609.01481",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "df751fdde08a18788eba2653a65c51dabdefdc89dcb28f6f612721e4bf57243b",
+  "end_line": 242,
+  "end_line_text": "",
+  "text_sha256": "bdbfee6dc69821d70d1a1481f836794f34c79edca553bbaae811f97d8de7ee92"
+ },
+ {
+  "arxiv_id": "2609.02264",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "7e798752ea6d40a66b691de027c3166ee43f8fa85b78927a3f669656e8a4e31c",
+  "end_line": 106,
+  "end_line_text": "",
+  "text_sha256": "9d9565d7a94aed5f17a068f6dc04a0e1bfb0640d4bafef4705e06fe7e4ad8d2b"
+ },
+ {
+  "arxiv_id": "2609.02730",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "e5a796ede0b8653df5c58f7e8ab6a5cfa7e165afb60c34df2d216a952b65aae2",
+  "end_line": 96,
+  "end_line_text": "",
+  "text_sha256": "3d63bbd4e9f3911deda3f1d924a6bc967f70ebe990d9a6b9b4a1c006d114dba0"
+ },
+ {
+  "arxiv_id": "2609.03874",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "42dcd80ff2320446da6e55b6660c8655e1b8e33ec44e977ec045d86f398971db",
+  "end_line": 133,
+  "end_line_text": "",
+  "text_sha256": "0ee130a6a436e999db8735e7e03142f89f813de01ab2af9a43970dd9eb39b0d6"
+ },
+ {
+  "arxiv_id": "2609.04170",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "79675effc26f8a7f68e9222e9f266fe3637407f2ed2ca15408a387b054e9c135",
+  "end_line": 97,
+  "end_line_text": "",
+  "text_sha256": "31fd6445e43d58934ddec5248d9488afcc37893137411bb3fed5589288845bf2"
+ },
+ {
+  "arxiv_id": "2609.06702",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "330f415c9a193d17346f5f8e7b3637dcdec08b224ec963d76fd17b4c85885c82",
+  "end_line": 196,
+  "end_line_text": "",
+  "text_sha256": "ef61985ace574a402b71ec78df1360e2d47976e9c7db5ab4cda900e45a858aea"
+ },
+ {
+  "arxiv_id": "2609.09134",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "ae8b8973f7964fca32b192fe3166ac66edb1afb78ad2b5212ec33b892a25cc34",
+  "end_line": 120,
+  "end_line_text": "",
+  "text_sha256": "3a99a8cdbfe9b53415043976cbe155e0073ca5e61f44f47687133895cdc77397"
+ },
+ {
+  "arxiv_id": "2609.12191",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "f3fd4efcdc45d8592732fbdf3d3dc01e31d0e7e383513eb0c139529c7bee8ec0",
+  "end_line": 176,
+  "end_line_text": "",
+  "text_sha256": "6bfec40733c53624f167dd90882f3834eea70cf69b5f216677c7699185440ddc"
+ },
+ {
+  "arxiv_id": "2609.15066",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "60ee17b2f329a435b59b220bfdd81229033b66d4b6a3be6c9b74c201dfc477fd",
+  "end_line": 91,
+  "end_line_text": "",
+  "text_sha256": "2d897891f54d549505920a8560bbea64e738258990a7981e14025bedb5a0e49b"
+ },
+ {
+  "arxiv_id": "2609.15983",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "08d3ddee02b0e6dcdde3c03e718477ccc0889efc60850ad8bc00d07d64b1b34f",
+  "end_line": 242,
+  "end_line_text": "",
+  "text_sha256": "2e582a612a7421d5dc1cc53be2d0fa07a295beee1d43deba5ea8be4fc647dfd4"
+ },
+ {
+  "arxiv_id": "2609.17306",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "1ae5e4c1311c3ae3cb6ec108a58827d991ddc53ec9c3d9725f83b2f68186cac7",
+  "end_line": 101,
+  "end_line_text": "",
+  "text_sha256": "c2d337d7d81d8e316691cf9b0b9cf18dc2c8dd6be97881de49e43311ee0014a4"
+ },
+ {
+  "arxiv_id": "2609.17496",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "81cb1fd4d775c1e803f8952f03c2042bfef2ee0596eb19814491e46aa96ed03e",
+  "end_line": 99,
+  "end_line_text": "",
+  "text_sha256": "e092f25b7a5497c5caa387f37c03a9dbb2ee5ec8b144da97f4d093277ee32f62"
+ },
+ {
+  "arxiv_id": "2609.19526",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "e5aab5fc31a89d6b7c85fea123ad6dab33021941261e52e82cfa06754853ec45",
+  "end_line": 131,
+  "end_line_text": "",
+  "text_sha256": "b1b0cad928aaea7781acc166d01fbd52f87a78e65d039fc52fee736414a7cc4b"
+ },
+ {
+  "arxiv_id": "2609.22592",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "be672683a381d839101d279b07ed1413d65a979c27a5f70c93651e7c757eced8",
+  "end_line": 70,
+  "end_line_text": "",
+  "text_sha256": "9e18c21f446b1c1193aeccb7beed4545f58c6a9743a1fa7648f9c14ccecb57c7"
+ },
+ {
+  "arxiv_id": "2609.24974",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "bf0331faa974d446aa360d7ac8bf9bb0cb44363a4fcebc06aea52c6cfcc8101f",
+  "end_line": 118,
+  "end_line_text": "",
+  "text_sha256": "9da385bd4595d9243879d82d3eb1088b5244ddeed696ef38a54fdf843f4276e8"
+ },
+ {
+  "arxiv_id": "2609.26261",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "631ede4bb7bf03e539b6fd11c73b486aa80674c3f664347512d74339858fa470",
+  "end_line": 104,
+  "end_line_text": "",
+  "text_sha256": "48ec7bb677545a9bf339014a8693fc4200f92bada0a1afe388a9ebcb126f2bd1"
+ },
+ {
+  "arxiv_id": "2609.26550",
+  "arxiv_version": 6,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "e3834a6763b1aaa861d958bdd9434545c8f8918ea1954b74b2e5cd1873d2a935",
+  "end_line": 252,
+  "end_line_text": "",
+  "text_sha256": "a859432bd37863b79607e12b35377209dcdb12f084909281a0fc2804c81de962"
+ },
+ {
+  "arxiv_id": "2609.37226",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "de52222fe3bc1d16ba62d3f193d2986b5a183a60913d5c17829cd01922e16373",
+  "end_line": 230,
+  "end_line_text": "",
+  "text_sha256": "60adb448251cbaab9f33c86bccc1d5604d952431f5c4406bf6f03c879710ad8f"
+ },
+ {
+  "arxiv_id": "2609.37725",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "ac5c926814434d8ad2f499183cd2a81e53b4c14f327587f99980ade9157db01b",
+  "end_line": 103,
+  "end_line_text": "",
+  "text_sha256": "acb66173d88a5926c9a48b9c005cd7eb9774d743ab662601a69da2b7b4e987ab"
+ },
+ {
+  "arxiv_id": "2610.01509",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "0458fa89a3e999fb7f0c55f6d29be3f5457ec663a94b9a3256ce806f99ace3f1",
+  "end_line": 111,
+  "end_line_text": "",
+  "text_sha256": "9bf12412d1ccc5cefa87c4fdb0cc0d727e54559ccf184f34287222115456a3c5"
+ },
+ {
+  "arxiv_id": "2610.07832",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "9873429baf791f96b666568d9ace3c0b89bdc991007fdda6ae8174f14afcea0f",
+  "end_line": 105,
+  "end_line_text": "",
+  "text_sha256": "41522293f7823623b8660ba2f4275d05182e9cfb4f5198f64c551c6a8d17b14f"
+ },
+ {
+  "arxiv_id": "2610.07907",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "f9a3c24cdf6bdacbb508729667d49a7d0e03a6f55a7f37f911737da68c4609d7",
+  "end_line": 134,
+  "end_line_text": "",
+  "text_sha256": "79be12c9998ff17a2c476ca84fb8c4b8b16ef7b2defd7e579187a5e9ec24f820"
+ },
+ {
+  "arxiv_id": "2610.12668",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "02389da7a4cc602508ee14bf23879d78cce7765df19cc3e45191dc397770dced",
+  "end_line": 88,
+  "end_line_text": "",
+  "text_sha256": "8c6266818cd466e6b1a467723ad501b4f5afaca6a62c5a3ea18123a77ff3d46a"
+ },
+ {
+  "arxiv_id": "2610.13075",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "ac8a039ffdffdcbb081d6fa8d66f0428addb86e67212eaa695195c1dd39bab0e",
+  "end_line": 271,
+  "end_line_text": "",
+  "text_sha256": "d803cf1e6160b416fbd6f1925290e6637fc4144873c8ecc4eae9a5c198f2b5fc"
+ },
+ {
+  "arxiv_id": "2610.32813",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "8d66e8c11f1ed96e420c3db71e94fe75bb1c20e4dba1ae20c941024ff5ab8d0a",
+  "end_line": 137,
+  "end_line_text": "",
+  "text_sha256": "98a5655516895334ac5d67a7ce5de9752fe5c274ce6f55c2c7edaf623fecf137"
+ },
+ {
+  "arxiv_id": "2610.34577",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "83dc9f397c7520c42ab29f50291162ba08835dc8caa5b090156349039cf1436a",
+  "end_line": 82,
+  "end_line_text": "",
+  "text_sha256": "27e2c6edc2aef999a3633dfc1f29b8b5a988c086bb7a075d79bb3346544f9545"
+ },
+ {
+  "arxiv_id": "2610.35868",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "1f219f2e453f3d14f81fa53101a2388b9348910c1e6846a8f8d29ebccaf2d9fa",
+  "end_line": 134,
+  "end_line_text": "",
+  "text_sha256": "597292081b2529c49376c7afc28784cbc8f85b8b67261e378a6c41c1bc85702a"
+ },
+ {
+  "arxiv_id": "2610.37364",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "d27a36308db84598e8f1a6e66e45cb01a645390dfca229507ec63fea8586c83f",
+  "end_line": 91,
+  "end_line_text": "",
+  "text_sha256": "dd10255608aebcce274a70f301d0913a27f9e6db2b07786a5bb8a4e4f132b379"
+ },
+ {
+  "arxiv_id": "2610.40564",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "train",
+  "pdf_sha256": "43bee6045237d2be23fdd3ba5be3d16551ee8525660521626b550cbf4f00e312",
+  "end_line": 166,
+  "end_line_text": "",
+  "text_sha256": "89cd49cc35e949ede9bfcc273f060d329d2948e7be7c4d55acde365bc42ccdc3"
+ },
+ {
+  "arxiv_id": "2606.21228",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "c65ad2edbf98b6f4f0d1e7c1c1d520246113cadcf6d32064cfcaf0e34d151e24",
+  "end_line": 330,
+  "end_line_text": "",
+  "text_sha256": "95469eccf336e1598334d65129cef6b11b9e661c3496cef392f176c6bef49e72"
+ },
+ {
+  "arxiv_id": "2607.01538",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "fedab48bdf23e244aa27497022b4e48ca60e80492477f0682932d6b602558eed",
+  "end_line": 112,
+  "end_line_text": "",
+  "text_sha256": "d62d28a6ed2268b25dd5bf391d56bc811b981f4f810e3e607f5a5ee049000db8"
+ },
+ {
+  "arxiv_id": "2607.02509",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "43659054fcd39b5d02445c1b6857e01014ebaeb035f6a02ed7c9b759b59c852f",
+  "end_line": 297,
+  "end_line_text": "",
+  "text_sha256": "581b9596c82882ad3a8013c1ccc588d3cbbb6d21e03a269ade674942aac0d044"
+ },
+ {
+  "arxiv_id": "2607.13394",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "932948042181aa9154755773151183306fc113d0dc05336861ba656b925370fc",
+  "end_line": 115,
+  "end_line_text": "",
+  "text_sha256": "7502977ad2a9645d12422fed8e55e78d7675d285573eaf75c6363d4c73733ea2"
+ },
+ {
+  "arxiv_id": "2607.20466",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "f3eb4c046474ffc338d7969d943fa6923086d6da8793645399ef70844593c23f",
+  "end_line": 155,
+  "end_line_text": "",
+  "text_sha256": "a56cf8f788b6d4d051728162fdac2e05b3b7d9e47bd8490078b56a4f0696290e"
+ },
+ {
+  "arxiv_id": "2607.22925",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "ca4ebcd70701dffb16da633aa3d83c43254bd8cb686efc1ed18da9d8ee643962",
+  "end_line": 75,
+  "end_line_text": "",
+  "text_sha256": "bc640d040ba2e1fea0363ebb9d51f21940992bf5c61e9845a4e57e5191c328c9"
+ },
+ {
+  "arxiv_id": "2607.28956",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "3e13c2b18347ca0d5820f0ee1eb61f6cb150b7b7b5b97a62460fe9f258653b8c",
+  "end_line": 108,
+  "end_line_text": "",
+  "text_sha256": "d65197066a2ee0ddae9a60fbf10489504c12e718b34d5b9fbcd80b8a91282bbc"
+ },
+ {
+  "arxiv_id": "2608.03874",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "a651ef074d51ca0f2fb4837686b6e00e6cf93427e684577f33fbb8e8ab826cac",
+  "end_line": 137,
+  "end_line_text": "",
+  "text_sha256": "377435e0073a210a947bbdd5dfd908ab6d56562d9723304da335c11640e87fd7"
+ },
+ {
+  "arxiv_id": "2608.18300",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "b6803ca45ba93a7b425ced6f7cbfbdd5fc06709964b679da8f5678a728fbcefc",
+  "end_line": 82,
+  "end_line_text": "",
+  "text_sha256": "b288b7c0b8072d5fff1e5cb58de0ef196b6f5366ec83293a969c942a0d640e83"
+ },
+ {
+  "arxiv_id": "2609.02737",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "e5f9a8d13f8592625f0cb34201da69096219e9f557f0976f053775ca89eef662",
+  "end_line": 176,
+  "end_line_text": "",
+  "text_sha256": "d66d279f9f5e54f74fea306d441d4f5a8cf38fddd8bd4984d9979e5761f04f20"
+ },
+ {
+  "arxiv_id": "2609.09153",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "90ffc33b32c009846a183edab09b521cde4d5342ccbfafa71cd00bd2186ddb9a",
+  "end_line": 180,
+  "end_line_text": "",
+  "text_sha256": "574207599c1044d91f5b8b5597b0d1465bac3a7c80bef7d675b971c6683c4671"
+ },
+ {
+  "arxiv_id": "2609.11999",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "11d817ca3460e546b625355222f1bf277f4fccb761d639e35a20f79b43e14cab",
+  "end_line": 69,
+  "end_line_text": "",
+  "text_sha256": "8d73f27814bd5010d8b188e3714aa92afbd7bc5422524da9bee33f0c8bc0915d"
+ },
+ {
+  "arxiv_id": "2609.15779",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "33463806a2a201ad38960076414a8780f45133bc8bdb81d5f7339e9ae6780eef",
+  "end_line": 201,
+  "end_line_text": "",
+  "text_sha256": "ffafcdf060da77e4c960443779f3ed14c847b3166d2bbbfa0809b83f969a8302"
+ },
+ {
+  "arxiv_id": "2609.23939",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "e0b9fb3a3bb3196c9a33f6920bbd32f224e4bee4fb39465f08bb41a0c632102d",
+  "end_line": 84,
+  "end_line_text": "",
+  "text_sha256": "3c7f44b75cc618bbb48f3a587090ea0e6590e5f4dc1d39a52855b9ee18f0e6db"
+ },
+ {
+  "arxiv_id": "2609.24985",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "db85907efa37631615b9c19434da49f61d86c90aefb7656d65d1ce03db9c5d3e",
+  "end_line": 101,
+  "end_line_text": "",
+  "text_sha256": "6a84a53c5426aea443279a383c27c5b84953a2541d72935a11a840e71fc34b4a"
+ },
+ {
+  "arxiv_id": "2610.04862",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "1df39f09ce0cf67489711bf2f62b0259ea717eb0b57df03505ffc1b9aa9bce07",
+  "end_line": 200,
+  "end_line_text": "",
+  "text_sha256": "cf276ae78c0c8dcce8ecc2a9b50a7629c80f620dc2adf8b4612a25b83a04624d"
+ },
+ {
+  "arxiv_id": "2610.05923",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "89cfc9d890e318e09ba7a16b835235516ede7029b284a6a18f5ef2cd23aad1c5",
+  "end_line": 128,
+  "end_line_text": "",
+  "text_sha256": "bc4cb1f987783efb78e9986195e7ed95c5311dd67ced52a1819963f79511b2c6"
+ },
+ {
+  "arxiv_id": "2610.06647",
+  "arxiv_version": 3,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "b4c9607469b0ecbf71ba505b559ae3f300bcc7273f6c9a9f4223bfbc7be81308",
+  "end_line": 106,
+  "end_line_text": "",
+  "text_sha256": "cc193de7d1c4c44501fea819806f50f8161627e25cef757085c808e4c8fbdd83"
+ },
+ {
+  "arxiv_id": "2610.18861",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "5ccf4308e48406a99e9d6afb59cdc950c46302b69940be16b0cf47f46bcf1cc4",
+  "end_line": 183,
+  "end_line_text": "",
+  "text_sha256": "156f27b67ca78b374283ccceb080b1f081a780c0444f11019cfe0f6b4ddb0cdd"
+ },
+ {
+  "arxiv_id": "2610.18933",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "dev",
+  "pdf_sha256": "cb170b5435743032755f89b97136464a024df2c0fb4f46286a69945208585fd5",
+  "end_line": 190,
+  "end_line_text": "",
+  "text_sha256": "23a3d1ef9201da0210f17e711aa3b7fd4c113cdfa0dc9dd03e131332cab0daac"
+ },
+ {
+  "arxiv_id": "2606.19544",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "faacf577921eab7a38f1a7b04899b6db5acbb17434ff78cb8f9f25e3b87f3230",
+  "end_line": 69,
+  "end_line_text": "",
+  "text_sha256": "b97e6d0417651c3ee3d24327317f20a1f4b1e18157a44e75e1d81e592b03ed26"
+ },
+ {
+  "arxiv_id": "2606.24775",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "6cad9bfcded2f1801c09049daa716a33e570cc407ddfbe40f32d3aa850361d85",
+  "end_line": 359,
+  "end_line_text": "",
+  "text_sha256": "055ae01869e1c151f9f7c38a2dd283933599d4a33cf277a54715a7db9a14ccd1"
+ },
+ {
+  "arxiv_id": "2607.05775",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "fa4a400e0cd34f4b9c8381f6424dbb641815e6e1cff27c017bc2450c6845daf1",
+  "end_line": 82,
+  "end_line_text": "",
+  "text_sha256": "e7b955daed468898a8201672a8a5be913a2879bf60f5c48f8b8ebae682110694"
+ },
+ {
+  "arxiv_id": "2607.16621",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "82f7f9768a6eb2ee94749b35477998e0db0f64662dd730b1ae70531a6b9d65fd",
+  "end_line": 76,
+  "end_line_text": "",
+  "text_sha256": "ca54c343c89d565c20e4f234ea345d2f9d5c72dee25401eb0bd3f6f0cb4c21da"
+ },
+ {
+  "arxiv_id": "2607.19322",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "a3cd6ce3985b7542df134f8ecacbd0651818dda77659c2ce3eeed4a360f488c0",
+  "end_line": 288,
+  "end_line_text": "",
+  "text_sha256": "3d77d2885992cf6a5b797dc3a4946f5e88aec5d5f504b3819ff0558b265f8efd"
+ },
+ {
+  "arxiv_id": "2607.20709",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "6929f7e5b88cf62c8f89d8e7fb34b87b6d96e544afcdab4be96700be20ba3be1",
+  "end_line": 131,
+  "end_line_text": "",
+  "text_sha256": "a6c76ef8431e46e4653659409891dad070a51755d20ea0f82e126303c60775f1"
+ },
+ {
+  "arxiv_id": "2607.27687",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "4deba8a98067548af81bda1ae304e6a331dce0c64b51600e3efaad3d81f8ec73",
+  "end_line": 96,
+  "end_line_text": "",
+  "text_sha256": "c27500db526a888254c8e98556ea69308db53a02b3bd5294b1605f2685db7bd4"
+ },
+ {
+  "arxiv_id": "2608.07222",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "d9ed61dd994cf547f1b4a39c249e87b90b387afb40ce5692fb719665ed5ea270",
+  "end_line": 403,
+  "end_line_text": "",
+  "text_sha256": "1c56f232627d172ae5da9feea85710ad29ae289978947ae846cbc8565f0d7ad1"
+ },
+ {
+  "arxiv_id": "2608.11242",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "13be20fba18a4db17e5d1f4357bec090555dc4427c130141ec8424cfa458a222",
+  "end_line": 254,
+  "end_line_text": "",
+  "text_sha256": "a0da31a1eee36cf968c13fa2e2b9940560d88b2a49aae015c9daa7534711d851"
+ },
+ {
+  "arxiv_id": "2608.25593",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "5654012b4723f128c26908e0cce6a8c7afd58fe4a69c6688a9a88094bcfe9ebc",
+  "end_line": 120,
+  "end_line_text": "",
+  "text_sha256": "d68d7d3e26e3af060b4d3b809fef78e756fc4980906ca71e4c2f20400b9391e3"
+ },
+ {
+  "arxiv_id": "2608.26701",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "a674b90e402799f289ffbb817628cc526d7e1a4113cdb00c3b5e7f627e14a042",
+  "end_line": 325,
+  "end_line_text": "",
+  "text_sha256": "1f63cfcfe7c1439ba082d848fda6f9da2d952eac66ddda2543586ab837f9355d"
+ },
+ {
+  "arxiv_id": "2609.00546",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "c01be9515f75015246303e9af4c5d2e832613f5fc53f3c0aa571cd9ffa8dec32",
+  "end_line": 62,
+  "end_line_text": "",
+  "text_sha256": "82a6a7f41665c8e32fc9d3c6fea38b5f2c2c694fb1db7b3ddf979315f6776f32"
+ },
+ {
+  "arxiv_id": "2609.01588",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "d55e6315b6830adf027d74ee398a0f3d18db9c8375da056b12531c72581fbc09",
+  "end_line": 78,
+  "end_line_text": "",
+  "text_sha256": "6aeed40d0bbf38bb8bd5faf94490a0f519f6ba64dc2e20f686cef510b81cba1e"
+ },
+ {
+  "arxiv_id": "2609.16487",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "802fc68e813a697c36c349fb9d55f3ca3fdbe794bbc6348ac991c3033c2bb882",
+  "end_line": 81,
+  "end_line_text": "",
+  "text_sha256": "113d4074fd5c7395e0ef2a1cb5378f5e1f862866e6ee940ed12b164e8390f736"
+ },
+ {
+  "arxiv_id": "2609.35738",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "469fdb0f1673ab1aacce96d24a8a1f6a0c35a479db799e4574e65a3beb38678f",
+  "end_line": 125,
+  "end_line_text": "",
+  "text_sha256": "170807f74653ce8e7167f51dd73264a0274b0f9624e86217e9c7b2a1119e6bfb"
+ },
+ {
+  "arxiv_id": "2610.00972",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "a031033e46ea52c833a2f3d4f3588ba2ee5f332fe027c026c1495bfa31d50969",
+  "end_line": 234,
+  "end_line_text": "",
+  "text_sha256": "00c66a030bfb498b47030323b0cab34cd73b3729c22613a8b087c469f1da8288"
+ },
+ {
+  "arxiv_id": "2610.09484",
+  "arxiv_version": 2,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "fe5e7765e1100a35a3f11927758a62ecf0b0a84d5d1448c5853497870f749096",
+  "end_line": 337,
+  "end_line_text": "",
+  "text_sha256": "ed757909ec275ae1d8635fe997e70c17d3e5e6a8c924545be6649a3033268403"
+ },
+ {
+  "arxiv_id": "2610.32318",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "c3cf9e73b5dbb914874a7ab9e7602e639d94a048ff54f568b7201ad001c7443c",
+  "end_line": 285,
+  "end_line_text": "",
+  "text_sha256": "1323b2e7efb371b95ac89d0f7eb99b2868f3fbe277a68217f6cdc4e0907ed55c"
+ },
+ {
+  "arxiv_id": "2610.35959",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "2380743be92bfb114f5500f69f39c34df88c77e370b3bca7369c00e1af83aec2",
+  "end_line": 344,
+  "end_line_text": "",
+  "text_sha256": "048bbb1e3ed866213aa30ae267e98f7baa34f5bb0c0c5d147921193b872cd7cf"
+ },
+ {
+  "arxiv_id": "2610.36449",
+  "arxiv_version": 1,
+  "source": "dataset",
+  "split": "test",
+  "pdf_sha256": "cdf3d44b56dd1c7e589303d170d5d4cc5b837e12af68180e66e2e6dd0de7c66f",
+  "end_line": 54,
+  "end_line_text": "",
+  "text_sha256": "c02d60a17a43e09e6753c50d388ef885dcc82a78d772844e7c3e3dcf0705c062"
+ }
+]

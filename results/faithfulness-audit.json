@@ -1,0 +1,406 @@
+{
+  "2606.19544": {
+    "trained": [],
+    "base": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "propose a Minimum Viable Validation Protocol that corrects for chance and highlights bias and consistency issues",
+        "source_evidence": "Abstract: \"We distill these into a Minimum Viable Validation Protocol.\" (contents of the protocol are not described in the input)",
+        "note": "The input names the protocol but never says what it does; the description is invented."
+      }
+    ]
+  },
+  "2606.24775": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "without consistent accuracy gains",
+        "source_evidence": "\"Highly structured systems incur orders-of-magnitude higher index construction time and query latency than lightweight stores, yet do not consistently deliver proportional accuracy gains.\"",
+        "note": "Dropping 'proportional' changes 'gains not proportional to cost' into 'no consistent gains'."
+      }
+    ],
+    "base": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "evaluates 12 representative memory systems (e.g., MemoryBank, MemGPT, Mem0, Zep, A‑MEM)",
+        "source_evidence": "Intro names MemoryBank, MemGPT, Mem0, Zep, A-MEM only as examples of architectures in the landscape (Figure 1); the list of the 12 evaluated systems is not given.",
+        "note": "Presents landscape examples as the evaluated set."
+      },
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "Append‑only stores suffer catastrophic degradation as evidence ages",
+        "source_evidence": "\"Many append-only memory stores suffer from catastrophic degradation as evidence becomes more distant.\"",
+        "note": "Drops 'Many', generalizing to all append-only stores."
+      }
+    ]
+  },
+  "2607.05775": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "Progress on agent benchmarks hides recurring failure modes that keep agents from reliable deployment.",
+        "source_evidence": "Abstract: \"Reported benchmark gains often obscure recurring failure modes\"; the paper also gives \"an explicit account of where agents have measurably improved\".",
+        "note": "Source says gains 'often obscure' failure modes; the claim that these failures keep agents from reliable deployment is not made."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "Test‑set contamination, insufficiently rigorous suites, and solution leakage undermine the reliability of reported benchmark scores.",
+        "source_evidence": "\"A separate thread of the literature has begun to question whether reported benchmark scores reliably measure underlying capability at all, given evidence of test-set contamination...\"",
+        "note": "Source reports that a literature thread 'has begun to question'; the summary states the undermining as established."
+      }
+    ]
+  },
+  "2607.16621": {
+    "trained": [
+      {
+        "type": "wrong",
+        "severity": "minor",
+        "summary_quote": "propagate sparse terminal feedback through dense self-references",
+        "source_evidence": "Abstract: \"propagates sparse terminal feedback through dense local self-reflections\"",
+        "note": "'self-reflections' became 'self-references' (also in the key point 'local self-references'); misnames the mechanism."
+      },
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "existing systems store traces as passive context instead of turning them into executable knowledge",
+        "source_evidence": "\"Existing memory systems ... often retrieve prior traces as passive context\"; \"These memories are often reused as passive context\"",
+        "note": "Drops 'often', turning a tendency into a blanket claim about all existing systems."
+      },
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "Skills that keep evidence links and reliability estimates are less likely to be invoked in inappropriate contexts.",
+        "source_evidence": "Only motivation: \"Directly distilled skills may thus overfit to raw trajectories and be invoked in inappropriate contexts.\" No measurement of inappropriate invocation is reported.",
+        "note": "Turns a design motivation into an implied finding about MSCE."
+      }
+    ],
+    "base": []
+  },
+  "2607.19322": {
+    "trained": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "That works for precision, but it misses recall",
+        "source_evidence": "\"both lines rest on a more questionable assumption: that the factual quality of an answer is captured by a list of independent boolean fact-checks\"; contribution: \"a shared limitation of existing precision and recall methods\"",
+        "note": "The source treats the boolean-checklist reduction as a limitation of both precision and recall methods; it never says it 'works for precision'."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "reduce answers to independent boolean checks, ignoring recall",
+        "source_evidence": "\"Comparatively little attention has gone to recall ... which a few recent works target directly (Liu et al., 2025).\"",
+        "note": "'Comparatively little attention' became 'ignoring'."
+      }
+    ]
+  },
+  "2607.20709": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "NOOA is the first to combine typed input/output",
+        "source_evidence": "\"We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface\"",
+        "note": "Drops 'to our knowledge'; a hedged priority claim is stated as fact."
+      },
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "so learning a new framework means learning a new programming model",
+        "source_evidence": "\"learning a new agent framework often means learning a new programming model\"",
+        "note": "Drops 'often'."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "The framework is the first to combine six model‑facing ideas in one surface",
+        "source_evidence": "\"We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface\"",
+        "note": "Drops 'to our knowledge'."
+      }
+    ]
+  },
+  "2607.27687": {
+    "trained": [
+      {
+        "type": "wrong",
+        "severity": "moderate",
+        "summary_quote": "On 366 same-baseline pairs",
+        "source_evidence": "\"centered on 296 strictly same-baseline pairs ... with an auxiliary 70-pair worked-versus-worked ranking probe\"; abstract: \"On 296 same-baseline modification pairs ... On the full 366-pair benchmark\"",
+        "note": "The 366-pair benchmark is 296 same-baseline pairs plus 70 worked-vs-worked pairs. Calling all 366 'same-baseline' merges two different sets. Every number appears in the source, so a digit check would not catch this."
+      }
+    ],
+    "base": []
+  },
+  "2608.07222": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "with a negative sign: scaling size and data together lowers loss more than scaling either alone",
+        "source_evidence": "\"with a ≈ b ≈ −1.1 and a predominantly negative sign\"",
+        "note": "Drops 'predominantly'."
+      }
+    ],
+    "base": []
+  },
+  "2608.11242": {
+    "trained": [],
+    "base": [
+      {
+        "type": "wrong",
+        "severity": "moderate",
+        "summary_quote": "show that most compactors keep only 17 % of SCs",
+        "source_evidence": "\"The evaluated compactors retain only 17% of injected SCs on average.\"; \"retention varying by compactor\"",
+        "note": "An average across compactors is presented as what 'most compactors' retain."
+      }
+    ]
+  },
+  "2608.25593": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "JIT-generated harnesses match OpenCode and Claude Code",
+        "source_evidence": "\"JIT-Agent-generated harnesses are performance-competitive with mature agent runtimes such as OpenCode and Claude Code\"",
+        "note": "'Performance-competitive' became 'match'."
+      }
+    ],
+    "base": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "Existing ahead‑of‑time (AOT) harnesses are brittle and hard to generalize across heterogeneous tasks",
+        "source_evidence": "\"This is a powerful paradigm when the deployment distribution is stable and homogeneous\"; \"Optimizing a single AOT harness across such heterogeneous demands is cumbersome\"",
+        "note": "The source calls AOT powerful but cumbersome for heterogeneous tasks; it never calls AOT harnesses 'brittle'."
+      }
+    ]
+  },
+  "2608.26701": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "The work shows a generalizable research framework that orchestrates discovery across diverse experimental surfaces while keeping experimental verifiability throughout the workflow.",
+        "source_evidence": "\"What has been missing is a generalizable research framework capable of orchestrating discovery across diverse experimental surfaces ... while maintaining experimental verifiability\"; conclusion: results \"demonstrate further progress toward\" such systems; MXene result needs \"further experiments ... to confirm the atomic structure\".",
+        "note": "Restates the stated gap as an achieved result. The authors claim 'further progress toward' it, and some results are explicitly unconfirmed."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "show that the system can design and run experiments in materials science, biology, and computer science",
+        "source_evidence": "\"Physical execution of the top-ranked recipe optimized by human experts\"; biology: \"domain experts ... performing wet-lab assays\"",
+        "note": "Humans ran the materials and biology experiments."
+      },
+      {
+        "type": "wrong",
+        "severity": "minor",
+        "summary_quote": "achieved single‑attempt growth of monolayer MoS₂, MoSe₂, and WS₂ within minutes",
+        "source_evidence": "\"Co-Scientist tailored synthesis recipes to laboratory constraints in minutes, enabling successful, single-attempt growth\"",
+        "note": "'In minutes' describes the recipe tailoring, not the growth."
+      },
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "The work demonstrates a generalizable, execution‑grounded AI research framework that can orchestrate discovery across diverse experimental domains while maintaining verifiability",
+        "source_evidence": "\"What has been missing is a generalizable research framework ...\"; results \"demonstrate further progress toward\"",
+        "note": "Same overstatement as the trained summary."
+      }
+    ]
+  },
+  "2609.00546": {
+    "trained": [
+      {
+        "type": "wrong",
+        "severity": "minor",
+        "summary_quote": "Zhenyu Zhao proposes a runtime-independent architecture",
+        "source_evidence": "Authors: \"Zhenyu Zhao, Roy Zhao\"",
+        "note": "Credits a two-author paper to one author."
+      },
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "Long-lived agents can move across models, harnesses and servers without silently becoming new agents.",
+        "source_evidence": "\"These results support mechanical continuity for the tested deployments and bounded workflows. They do not establish behavioral equivalence, arbitrary-task portability, general exactly-once external effects or unattended reliability.\"",
+        "note": "A general capability claim that drops the paper's explicit scope limits (tested deployments, bounded workflows)."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "enables long‑lived agents to migrate across models, harnesses, and servers without losing identity or memory",
+        "source_evidence": "\"These results support mechanical continuity for the tested deployments and bounded workflows. They do not establish ... arbitrary-task portability ...\"",
+        "note": "Drops the scope limits."
+      }
+    ]
+  },
+  "2609.01588": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "higher-level support such as idea generation has been reactive",
+        "source_evidence": "\"support for these higher-level activities has largely relied on reactive interfaces\"",
+        "note": "Drops 'largely'."
+      }
+    ],
+    "base": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "enhancing user acceptance",
+        "source_evidence": "\"Participants also found proactive support less intrusive when it was presented through lightweight visual representations and nondirective rhetorical framing.\"",
+        "note": "The source reports lower intrusiveness only, not greater acceptance."
+      }
+    ]
+  },
+  "2609.16487": {
+    "trained": [],
+    "base": []
+  },
+  "2609.35738": {
+    "trained": [],
+    "base": [
+      {
+        "type": "wrong",
+        "severity": "minor",
+        "summary_quote": "Alvin Zhang, Xuecheng Liu, Zixuan Wang, Fahim Tajwar, Daman Arora, and Ruslan Salakhutdinov propose",
+        "source_evidence": "Authors also include Daniel Khashabi, Yuda Song and Andrea Zanette (the last two are the equal advisors)",
+        "note": "This list reads as the full author list but omits three authors, including both equal advisors."
+      },
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "a 4B proposer outperforms a 35B teacher in single‑step revision on task families excluded from both supervised and reinforcement learning",
+        "source_evidence": "\"training improves revision quality on task families excluded from both supervised and reinforcement learning, and in single-step revision the trained 4B proposer outperforms the 35B teacher on average\"",
+        "note": "Merges two separate claims. The source does not say the 4B-vs-35B result is on excluded families, and it drops 'on average'."
+      }
+    ]
+  },
+  "2610.00972": {
+    "trained": [
+      {
+        "type": "wrong",
+        "severity": "major",
+        "summary_quote": "the most frequent answer is wrong 47% of the time",
+        "source_evidence": "Figure 2: \"Disputed claims (H > 0, n = 775) ... Correct candidate available 74% / Most frequent answer correct 47%\"",
+        "note": "Inverted: the most frequent answer is correct 47% of the time, so it is wrong 53% of the time. The number appears in the source but its meaning is reversed, so a digit check passes it."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "enabling reliable artifact selection and revision without stronger external judges",
+        "source_evidence": "\"VeriHarness achieves the highest selection scores among the evaluated baselines\"; gains of 6.2 and 6.4 points over a single rollout",
+        "note": "Shows relative improvement over baselines. 'Reliable' selection is not claimed or measured."
+      }
+    ]
+  },
+  "2610.09484": {
+    "trained": [
+      {
+        "type": "wrong",
+        "severity": "moderate",
+        "summary_quote": "so agents trained on them do not match real user success rates",
+        "source_evidence": "Figure 2: \"Task success rate of a fixed gpt-5.5 agent on τ-bench when each simulator plays the user role\"; \"their simulated interactions distort task difficulty, yielding agent success rates that diverge substantially from those observed with human users\"",
+        "note": "The mismatch comes from evaluating a fixed agent with different simulators as the user. It is not about agents trained on those simulators."
+      },
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "Better simulators give agents training trajectories that match real user difficulty, improving generalization.",
+        "source_evidence": "Generalization is reported only as \"better agent performance than training with GPT-5.5 under all nine unseen user simulators\"; real-user success matching (Fig. 2) is an evaluation of a fixed agent.",
+        "note": "Fuses two separate results into a causal claim the source does not test (training trajectories matching real-user difficulty). Generalization was shown to unseen simulators, not to real users."
+      }
+    ],
+    "base": []
+  },
+  "2610.32318": {
+    "trained": [],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "finding that reranker fine‑tuning consistently outperforms decision fine‑tuning",
+        "source_evidence": "\"From 0.6B to 9B, reranker fine-tuning wins on every backbone ... and at 27B the two tie.\"",
+        "note": "Ignores the 27B tie."
+      },
+      {
+        "type": "wrong",
+        "severity": "minor",
+        "summary_quote": "untuned models benefit more from the wording",
+        "source_evidence": "\"and the untuned models gain as much from the wording\"",
+        "note": "'As much' became 'more'."
+      },
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "whereas decision models cannot",
+        "source_evidence": "\"up to 9B, a reranker fine-tune keeps the better passages at a fixed threshold\"",
+        "note": "The source makes a comparative claim. 'Cannot' is an absolute claim it does not support."
+      }
+    ]
+  },
+  "2610.35959": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "A one-time, well-timed handoff strategy is enough for cost-effective agent collaboration.",
+        "source_evidence": "\"These findings suggest that a one-time, simple, well-timed handoff strategy is good enough for cost-effective agent collaboration\"",
+        "note": "Drops 'suggest'."
+      }
+    ],
+    "base": [
+      {
+        "type": "unsupported",
+        "severity": "minor",
+        "summary_quote": "Experiments on 11 model pairs and two benchmarks (Terminal Bench 2.1 and DeepSWE v1.1) show that *capable‑to‑efficient* handoffs",
+        "source_evidence": "Direction study: \"we evaluate both handoff directions across multiple capable–efficient model pairs\"; the 11 pairs are the AgentBaton evaluation: \"Across 11 model pairs and two benchmarks, AgentBaton reduces API costs...\"",
+        "note": "Attaches the 11-pair count from the AgentBaton evaluation to the handoff-direction study."
+      },
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "handoffs preserve or even improve accuracy while cutting cost",
+        "source_evidence": "\"capable-to-efficient handoffs at suitable stages of task progress largely preserve or even improve accuracy\"",
+        "note": "Drops 'at suitable stages of task progress' and 'largely'."
+      }
+    ]
+  },
+  "2610.36449": {
+    "trained": [
+      {
+        "type": "overstated",
+        "severity": "moderate",
+        "summary_quote": "VLMs can communicate richly and creatively",
+        "source_evidence": "\"We share preliminary findings\"; \"These findings reveal that VLMs might be capable of rich, creative, and visually-grounded communication\"",
+        "note": "'Might be capable' in a preliminary study became a flat 'can'."
+      }
+    ],
+    "base": [
+      {
+        "type": "overstated",
+        "severity": "minor",
+        "summary_quote": "these visual messages often fail to be interpreted correctly by other models or by humans",
+        "source_evidence": "\"these visual cues often fail to steer other models\"; \"some communications remain non-intuitive to humans\"",
+        "note": "For humans the source says 'some'. The summary applies 'often' to both models and humans."
+      }
+    ]
+  }
+}
