@@ -81,7 +81,7 @@ python training/train_dpo.py --run my-run
 python training/evaluate.py --trained runs/my-run/samples
 ```
 
-To see the results as a page, with the scores, the training curves and one paper before and after:
+To read the base and trained summaries side by side for every test paper:
 
 ```bash
 python training/show_results.py --run my-run
@@ -109,7 +109,7 @@ python training/evaluate.py --base runs/base --prompted runs/prompted --trained 
 | `training/train_dpo.py` | SFT then DPO on Training Sessions, then sampling |
 | `training/sample_base.py` | Base and prompted baselines |
 | `training/checks.py`, `training/evaluate.py` | The automatic checks behind the results table |
-| `training/show_results.py` | Turns a finished run into an HTML results page |
+| `training/show_results.py` | Turns a finished run into an HTML page with base and trained summaries side by side |
 | `results/` | Our final model's config, training metrics and summaries, the base and prompted summaries, the human review, the accuracy audit and the Nov 7 reproduction |
 
 ## Reproduction check
